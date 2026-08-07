@@ -1,0 +1,19 @@
+# 빌드 결과물
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.o
+*.out
+a.exe
+Debug/
+Release/
+x64/
+Win32/
+.vs/
+
+# 프로그램이 실행 중에 만드는 파일
+영수증.txt
+날짜 별 판매 기록 파일.txt

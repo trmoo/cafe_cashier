@@ -1,0 +1,2 @@
+# 소스는 CP949(ANSI) 인코딩에 LF 줄바꿈이다. 어느 PC에서 받아도 LF 를 유지한다.
+*.cpp text eol=lf
